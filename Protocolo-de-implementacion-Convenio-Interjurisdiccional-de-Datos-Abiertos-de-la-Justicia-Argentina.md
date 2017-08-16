@@ -1,4 +1,0 @@
-Protocolo de implementación del Convenio Interjurisdiccional de Datos Abiertos de la Justicia Argentina
-=======================================================================================================
-
-El Protocolo Unificado de Datos y Procesos es un documento elaborado en forma conjunta por el Ministerio de Justicia y Derechos Humanos y las instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia. Tiene el propósito de establecer los mecanismos mediante los cuales los poderes judiciales y los ministerios públicos de las provincias compartirán los datos estadísticos que serán publicados en el Portal de Datos de la Justicia Argentina. El protocolo también contiene los listados y tablas de datos de los que se compondrá el nuevo sistema de estadísticas de la justicia argentina.
